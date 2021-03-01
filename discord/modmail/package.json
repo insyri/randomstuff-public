@@ -1,0 +1,15 @@
+{
+  "name": "modmail",
+  "version": "1.0.0",
+  "description": "mod mail for @NoahDenSpiller#2925",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "insyri",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1"
+  }
+}
