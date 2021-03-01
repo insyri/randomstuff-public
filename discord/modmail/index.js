@@ -6,7 +6,7 @@ const prefix = config.prefix;
 
 fs.readFile('./token.txt', 'utf8', function(err, data) {
     if (err) throw err;
-    client.login(data).catch(err => console.error(err))
+    client.login(data.toString().trim()).catch(err => console.error(err))
 });
 
 //screw you im not making a command handler
