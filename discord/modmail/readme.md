@@ -8,3 +8,5 @@ MIT license
 - install discord.js via npm
 - make a `token.txt` file and put ur bot token it in
 - installing `package.json` is not needed
+
+the use of the word 'modmail' comes from NoahDenSpiller
